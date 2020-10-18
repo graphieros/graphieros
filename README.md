@@ -1,6 +1,6 @@
 ### I'm A.L.P :}
 
-I love Javascript !
+frontEnd (JS, React)
 
 - 🔭 I’m currently maintaining my conlanging website using React
 - 👯 I’m looking to collaborate on any project involving Javascript
