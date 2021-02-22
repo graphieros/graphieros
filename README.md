@@ -1,6 +1,6 @@
 ### I'm A.L.P :}
 
-frontEnd (JS, React, Vue)
+frontEnd (JS, Vue, React)
 
 {
   <br> 
