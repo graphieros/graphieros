@@ -1,6 +1,7 @@
 ### I'm A.L.P :}
 
 frontEnd (JS, Vue, React)
+Co-founder of <b>GeekFace</b>, the exclusive network for geeks, nerds and other brainy types
 
 {
   <br> 
