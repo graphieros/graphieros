@@ -1,6 +1,6 @@
 ### I'm A.L.P :}
 
-Co-founder of <a href="https://play.alpratech.com"<b>alpratech</b></a>, software development company.
+Co-founder of <a href="https://play.alpratech.com"><b>alpratech</b></a>, software development company.
 <br/>
 <br/>
 Our products:
