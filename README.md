@@ -2,7 +2,7 @@
 Check out <a href="https://portfolio-alp.graphieros.com"><b>my portfolio</b></a>
 <br/>
 <br/>
-Co-founder of <a href="https://alpratech.graphieros.com"><b>alpratech</b></a>, software development company.
+Co-founder of <a href="https://alpratech.graphieros.com"><b>alpratech</b></a>, software development collective.
 <br/>
 <br/>
 Our products:
