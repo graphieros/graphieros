@@ -2,6 +2,9 @@
 Check out <a href="https://portfolio-alp.graphieros.com"><b>my portfolio</b></a>
 <br/>
 <br/>
+Currently front-end developer at Colorado Groupe
+<br/>
+<br/>
 Co-founder of <a href="https://alpratech.graphieros.com"><b>alpratech</b></a>, software development collective.
 <br/>
 <br/>
