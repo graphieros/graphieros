@@ -1,5 +1,5 @@
 ###
-<a href="https://portfolio-alp.graphieros.com"><b>Portfolio</b></a>
+<a href="https://portfolio-alp.graphieros.com"><b>> Portfolio</b></a>
 <br/>
 <br/>
 Currently front-end developer at Colorado Groupe, building innovative data visualization solutions.
