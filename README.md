@@ -1,7 +1,4 @@
 ###
-<a href="https://portfolio-alp.graphieros.com"><b>> Portfolio</b></a>
-<br/>
-<br/>
 Currently front-end developer at Colorado Groupe, building innovative data visualization solutions.
 <br/>
 Author of <a href="https://www.npmjs.com/package/vue-data-ui?activeTab=readme"><b>vue-data-ui</b></a>, a Vue data visualization components library 
