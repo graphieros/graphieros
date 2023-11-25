@@ -1,5 +1,5 @@
 ###
-Currently front-end developer at Colorado Groupe, building innovative data visualization solutions.
+Front-end developer, building innovative data visualization solutions.
 <br/><br/>
 Author of: <br/> 
 - <a href="https://www.npmjs.com/package/vue-data-ui?activeTab=readme"><b>vue-data-ui</b></a> : a full-fledged Vue data visualization components and tools open source library. Check out the <a href="https://vue-data-ui.graphieros.com"><b>docs</b></a>
