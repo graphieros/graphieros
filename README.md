@@ -1,5 +1,5 @@
 ###
-Front-end developer, building innovative data visualization solutions.
+Front-end developer, crafting innovative data visualization solutions.
 <br/><br/>
 Author of: <br/> 
 - <a href="https://www.npmjs.com/package/vue-data-ui?activeTab=readme"><b>vue-data-ui</b></a> : a user-empowering data visualization Vue 3 components library for eloquent data storytelling. Check out the <a href="https://vue-data-ui.graphieros.com"><b>docs</b></a>
