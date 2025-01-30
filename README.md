@@ -6,6 +6,8 @@ Author of: <br/>
 
 - <a href="https://www.npmjs.com/package/grid-plan?activeTab=readme"><b>grid-plan</b></a> : a Vue3 dynamic component to create blueprints for rooms, datacenters, racks.... Check out the <a href="https://grid-plan.graphieros.com"><b>docs</b></a>
 
+- <a href="https://www.npmjs.com/package/color-bridge?activeTab=readme"><b>color-bridge</b></a> : a JS library to generate region-specific color palettes based on cultural contexts. Check out the <a href="https://color-bridge.graphieros.com"><b>docs</b></a>
+
 - <a href="https://www.npmjs.com/package/savyg?activeTab=readme"><b>savyg</b></a> : a lightweight and savvy graphics Typescript open source library to write svg in a comfortable way and create quick and reliable charts. Framework agnostic. Check out the <a href="https://savyg.graphieros.com"><b>docs</b></a>
 
 <br/>
