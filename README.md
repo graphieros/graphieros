@@ -9,5 +9,7 @@ To create easy component boilerplates, a <a href="https://github.com/graphieros/
 
 - 🎨 <a href="https://www.npmjs.com/package/color-bridge?activeTab=readme"><b>color-bridge</b></a> : a JS library to generate region-specific color palettes based on cultural contexts. <a href="https://color-bridge.graphieros.com"><b>Check out the docs</b></a>
 
+- 📈 <a href="https://www.npmjs.com/package/tiny-spark?activeTab=readme"><b>tiny-spark</b></a> : an elegant, reactive and responsive sparkline chart solution without dependency. <a href="https://tiny-spark.graphieros.com"><b>Check out the docs</b></a>
+
 <br/>
 Creator of <a href="https://en.graphieros.com"><b>the graphieros conlang</b></a>, based on the geometry of hexagons
