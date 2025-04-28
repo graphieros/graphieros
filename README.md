@@ -13,5 +13,7 @@ To create easy component boilerplates, a <a href="https://github.com/graphieros/
 
 - ⭐ <a href="https://www.npmjs.com/package/target-highlight?activeTab=readme"><b>target-highlight</b></a> : a lightweight, zero‑dependency JavaScript library to spotlight DOM elements. Single or multiple elements can be highlighted, using usual selectors. Ideal to setup a tutorial by highlighting elements. <a href="https://target-highlight.graphieros.com"><b>Docs & Demo</b></a>
 
+- 💬 <a href="https://www.npmjs.com/package/ez-tip?activeTab=readme"><b>ez-tip</b></a> : a lightweight and headless zero-dependency JavaScript tooltip library. Tooltips can be triggered on hover or displayed permanently, with configurable delay, offset, and positioning. <a href="https://ez-tip.graphieros.com"><b>Docs & Demo</b></a>
+
 <br/>
 Creator of <a href="https://en.graphieros.com"><b>the graphieros conlang</b></a>, based on the geometry of hexagons
