@@ -16,4 +16,4 @@ To create easy component boilerplates, a <a href="https://github.com/graphieros/
 - 💬 <a href="https://www.npmjs.com/package/ez-tip?activeTab=readme"><b>ez-tip</b></a> : a lightweight and headless zero-dependency JavaScript tooltip library. Tooltips can be triggered on hover or displayed permanently, with configurable delay, offset, and positioning. <a href="https://ez-tip.graphieros.com"><b>Docs & Demo</b></a>
 
 <br/>
-Creator of <a href="https://en.graphieros.com"><b>the graphieros conlang</b></a>, based on the geometry of hexagons
+Creator of the graphieros conlang, based on the geometry of hexagons
