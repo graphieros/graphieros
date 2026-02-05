@@ -19,4 +19,4 @@ To create easy component boilerplates, a <a href="https://github.com/graphieros/
 Creator of the <a href="https://graphieros-editor.graphieros.com/"><b>Graphieros conlang</b></a>, based on the geometry of hexagons
 <br/>
 <br/>
-Maintainer at <a href="https://npmx.dev/"><b>npmx</b></a>
+and <a href="https://npmx.dev/"><b>npmx</b></a> maintainer
