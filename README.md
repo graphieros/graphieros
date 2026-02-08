@@ -3,7 +3,6 @@ Front-end developer, crafting innovative data visualization solutions.
 <br/><br/>
 Author of: <br/> 
 - 📊 <a href="https://www.npmjs.com/package/vue-data-ui?activeTab=readme"><b>vue-data-ui</b></a> : an open source user-empowering data visualization Vue 3 components library for eloquent data storytelling. <a href="https://vue-data-ui.graphieros.com"><b>Docs & Demo</b></a>.
-To create easy component boilerplates, a <a href="https://github.com/graphieros/vue-data-ui-cli"><b>CLI tool</b></a> is also available.
 
 - 🖥️ <a href="https://www.npmjs.com/package/grid-plan?activeTab=readme"><b>grid-plan</b></a> : a Vue3 dynamic component to create blueprints for rooms, datacenters, racks.... <a href="https://grid-plan.graphieros.com"><b>Docs & Demo</b></a>
 
