@@ -18,4 +18,4 @@ Author of: <br/>
 Creator of the <a href="https://graphieros-editor.graphieros.com/"><b>Graphieros conlang</b></a>, based on the geometry of hexagons
 <br/>
 <br/>
-and <a href="https://npmx.dev/"><b>./ npmx</b></a> core contributor
+and part of the <a href="https://npmx.dev/"><b>./ npmx</b></a> core team
